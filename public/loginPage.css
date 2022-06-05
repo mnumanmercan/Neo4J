@@ -1,0 +1,20 @@
+.body{
+    background-color: aquamarine;
+
+}
+#form-1{
+    width: 310px;
+    height: 180px;
+    position: absolute;
+    left:7vh;
+    float: left;
+    background-color: azure;
+}
+#form-2{
+    width: 310px;
+    height: 180px;
+    position: absolute;
+    right: 7vh;
+    float: right;
+    background-color: antiquewhite;
+}
