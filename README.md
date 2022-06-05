@@ -3,6 +3,30 @@
     Akademik makalelere , yazar ve yayın bilgilerine ulaşılabilecek bir arama sistemi.
 > *  Bu sistemde database olarak Neo4J Graph Database kullandım 
 
+Kocaeli Üniversitesi Yazılım Laboratuvarı 2. Dönem 3. Projesi olarak akademik yayın arama web uygulaması yapmaya çalıştım. Burda bizden istenen teknolojiler :
+
+> * Neo4J Graph Veri Tabanı Kullanımı
+> * Backend ile sunucu istekleri yonlendirme vs.
+> * Admin ve User sayfaları 
+>   - Veri tabanını görünteleme
+>   - Veri Tabanını grafik arayüzü ile gösterme (Neovis)
+>   - Eleman ekleme çıkarma ve Neo4J mantığı ile bazı bağlantılar ve ilişkiler kurma 
+>
+
+![LoginPage](/img/LoginPage.jpg)
+
+Login saglandiktan sonra : 
+> * Verilerin tablo görüntüsü
+> * Arastirmaci ekleme,silme,arastirmacı yayın ilişkisi kurma gibi veri tabanında gerceklesebilen yetkilendirme formları var
+> * Neovis ile yapılan veri tabanının visualize ile grafik gösterimine erişmek için grafik butonu
+>
+
+![AdminPage](/img/adminLogin.png)
+>Admin sayfası bu şekilde. Not: Arayüz düzeltmeleri yapılacaktır odak backend oldugu icin bu kısma yeterince vakit ayrılamadı.
+
+![Neovis](/img/Neovis.jpg)
+>Neovis paketi ile Neo4J yi kendim visualize edip gösterdim 
+
  Projeyi indirdikten sonra terminalde şu komutları sırasıyla çalıştırın:
 
 * `$ npm init`
