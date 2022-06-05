@@ -5,13 +5,13 @@
 
 Kocaeli Üniversitesi Yazılım Laboratuvarı 2. Dönem 3. Projesi olarak akademik yayın arama web uygulaması yapmaya çalıştım. Burda bizden istenen teknolojiler :
 
-> * Neo4J Graph Veri Tabanı Kullanımı
-> * Backend ile sunucu istekleri yonlendirme vs.
-> * Admin ve User sayfaları 
->   - Veri tabanını görünteleme
->   - Veri Tabanını grafik arayüzü ile gösterme (Neovis)
->   - Eleman ekleme çıkarma ve Neo4J mantığı ile bazı bağlantılar ve ilişkiler kurma 
->
+ * Neo4J Graph Veri Tabanı Kullanımı
+ * Backend ile sunucu istekleri yonlendirme vs.
+ * Admin ve User sayfaları 
+   - Veri tabanını görünteleme
+   - Veri Tabanını grafik arayüzü ile gösterme (Neovis)
+   - Eleman ekleme çıkarma ve Neo4J mantığı ile bazı bağlantılar ve ilişkiler kurma 
+
 
 ![LoginPage](/img/LoginPage.jpg)
 
