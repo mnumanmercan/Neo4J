@@ -1,7 +1,6 @@
 {
   "name": "neomovies",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,14 @@
     "morgan": "*",
     "neo4j-driver": "*",
     "neovis.js": "^1.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNMercan/Neo4J.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MNMercan/Neo4J/issues"
+  },
+  "homepage": "https://github.com/MNMercan/Neo4J#readme",
+  "description": ""
 }
