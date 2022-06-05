@@ -71,6 +71,14 @@ input[type=submit]{
 h2{
     text-align: center;
 }
+h1{
+    position: absolute;
+    top: 7%;
+    left: 23%;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(54, 26, 26);
+}
 
 input[type=submit]:hover{
     background-color: #45a049;
