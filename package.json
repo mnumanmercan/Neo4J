@@ -1,0 +1,19 @@
+{
+  "name": "neomovies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "numan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^3.1.8",
+    "express": "*",
+    "morgan": "*",
+    "neo4j-driver": "*",
+    "neovis.js": "^1.6.0"
+  }
+}

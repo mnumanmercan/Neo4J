@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .body{
+            background-color: aquamarine;
+
+        }
+        #form-1{
+            width: 310px;
+            height: 180px;
+            position: absolute;
+            left:7vh;
+            float: left;
+            background-color: azure;
+        }
+        #form-2{
+            width: 310px;
+            height: 180px;
+            position: absolute;
+            right: 7vh;
+            float: right;
+            background-color: antiquewhite;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div id="form-1">
+            <form action="/admin/login" method="post">
+                <label for="">Admin Name: </label>
+                <input type="text" name="admin_name">
+                <br><br>
+                <label for="">Password: </label>
+                <input type="password" name="admin_password">
+                <br><br>
+                <input type="submit" value="Giris">
+            </form>
+        </div>
+
+        <div id="form-2">
+            <form action="/user/login" method="post">
+                <label for="">User Name: </label>
+                <input type="text" name="user_name">
+                <br><br>
+                <label for="">Password: </label>
+                <input type="password" name="user_password">
+                <br><br>
+                <input type="submit" value="Giris">
+            </form>
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
