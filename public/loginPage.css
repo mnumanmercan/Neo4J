@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(74, 112, 100);
+    background-image: url("kou.jpg");
+    background-color: #cccccc;
 
 }
 
@@ -7,7 +8,7 @@ body{
     position: absolute;
     width: 100%;
     max-width: 380px;
-    padding: 80px 40px 40px;
+    padding: 25px 60px 40px;
     background: rgba(169, 192, 196, 0.7);
     border-radius: 10px;
     color: #fff;
@@ -32,7 +33,7 @@ body{
     float: left;
     
     left: 10%;
-    top: 30%;
+    top: 26%;
     
     margin-top: auto;
     margin-bottom: auto;
@@ -42,7 +43,7 @@ body{
    
     top: auto;
     right: 10%;
-    top: 30%;
+    top: 26%;
     margin-top: auto;
     margin-bottom: auto;
 }
@@ -65,6 +66,10 @@ input[type=submit]{
     border: none;
     border-radius: 4px;
     cursor: pointer;
+}
+
+h2{
+    text-align: center;
 }
 
 input[type=submit]:hover{
