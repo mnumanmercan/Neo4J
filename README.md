@@ -30,7 +30,7 @@ Login saglandiktan sonra :
  Projeyi indirdikten sonra terminalde şu komutları sırasıyla çalıştırın:
 
 * `$ npm install`
-* `$ node start`
+* `$ node app`
 
  Böylece projeniz çalışmaya hazır hale gelecektir , fakat tabi birde Neo4J veri tabanımız gerekiyor.Aşağıdaki linkten desktop indirebilir ya da sandbox ile ücretsiz çalıştırabilirsiniz. Ben Neo4J desktop ile devam ettim. 
 
