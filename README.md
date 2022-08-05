@@ -9,7 +9,7 @@ Kocaeli Üniversitesi Yazılım Laboratuvarı 2. Dönem 3. Projesi olarak akadem
  * Backend ile sunucu istekleri yonlendirme vs.
  * Admin ve User sayfaları 
    - Veri tabanını görünteleme
-   - Veri Tabanını grafik arayüzü ile gösterme (Neovis)
+   - Veri Tabanını grafik arayüzü ile gösterme (Neovis.JS , npm kib)
    - Eleman ekleme çıkarma ve Neo4J mantığı ile bazı bağlantılar ve ilişkiler kurma 
 
 
